@@ -12,3 +12,23 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+1. A class diagram is plan while a object diagram gives you the real world data.
+2. When you create a new one. 
+3. When you enroll those objects.
+4. private Intructor tutor
+5. 
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
