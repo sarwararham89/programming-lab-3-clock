@@ -18,10 +18,9 @@ call the object's methods, such as increment and setValue.
 4. private Intructor tutor
 5. Whenever i pushed the increment method 24 times, in the field it rolls over to 0 after pushing it 24 times.
 6. Whenever you increment on minutes and it rolls over to 0, you should do the same thing for hours because you are the roll play of the ClockDisplay.
-8. No,even after changing the setValue the getValue stayed the same (3). the reason why it didnt change is because of the number inserted at first which was 6, we cant put a value greater then 6 it has to be lower then 6. 
-9. 
-10.
-11.
+8. No,even after changing the setValue the getValue stayed the same (3). the reason why it didnt change is because of the number inserted at first which was 6, we cant put a value greater then 6 it has to be lower then 6.  
+10. We see an error of "non-staic method".
+11. We see an error of " '.class' expected". After trying it multiple times i figured out that we dont need "int" we only need the value. 
 12.
 13.
 14.
